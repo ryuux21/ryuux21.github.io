@@ -446,7 +446,7 @@ class TextScramble {
 }
 
 const phrases = [
-  "I am Rishi"
+  "I am Rishi",
   "I am R3d4dm1n",
   "I am a Student",
   "I am a CTF Player",
